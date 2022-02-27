@@ -1,4 +1,5 @@
-//программа для вычисления простых выражений с функциями
+//Программа для вычисления простых выражений с функциями
+//A program for calculating simple expressions with functions
 
 #include <iostream>
 #include <sstream>
