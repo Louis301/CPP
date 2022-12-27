@@ -1,0 +1,3 @@
+﻿  File_Work.cpp
+C:\Users\Юрий\Desktop\Гаммирование_Орлик\Gamma_Project\File_Work.cpp(146,103): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  File_Work.vcxproj -> C:\Users\Юрий\Desktop\Гаммирование_Орлик\Gamma_Project\x64\Debug\File_Work.exe
