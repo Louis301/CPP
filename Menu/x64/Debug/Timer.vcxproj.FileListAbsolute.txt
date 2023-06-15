@@ -1,0 +1,2 @@
+C:\Work\Timer\x64\Debug\Timer.exe
+C:\Work\Menu\x64\Debug\Timer.exe

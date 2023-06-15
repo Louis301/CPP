@@ -1,0 +1,4 @@
+﻿  Timer.cpp
+C:\Work\Menu\Timer.cpp(96,7): warning C4101: item_indent: неиспользованная локальная переменная
+C:\Work\Menu\Timer.cpp(95,10): warning C4101: j: неиспользованная локальная переменная
+  Timer.vcxproj -> C:\Work\Menu\x64\Debug\Timer.exe
