@@ -1,0 +1,6 @@
+﻿  Text_Utilite.cpp
+C:\Projects\Text_Utilite\Text_Utilite.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
+C:\Projects\Text_Utilite\Text_Utilite.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+C:\Projects\Text_Utilite\Text_Utilite.cpp(84,25): warning C4018: '<': signed/unsigned mismatch
+C:\Projects\Text_Utilite\Text_Utilite.cpp(86,34): warning C4018: '>': signed/unsigned mismatch
+  Text_Utilite.vcxproj -> C:\Projects\Text_Utilite\Debug\Text_Utilite.exe
